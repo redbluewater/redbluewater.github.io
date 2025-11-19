@@ -3,7 +3,7 @@ I think my description at [GitHub](github.com/redbluewater) is best: Biologist. 
 
 <img src = "http://redbluewater.github.io/Longnecker_photos_2024.jpg" width="100%" height="100%">
 
-## Current positions
+## Current situation
 * Editor-in-Chief *Limnology and Oceanography: Methods*, Association for the Sciences of Limnology and Oceanography (2024 – present)
 * Guest Investigator. Woods Hole Oceanographic Institution, Marine Chemistry and Geochemistry (October 2025 – present)
 
