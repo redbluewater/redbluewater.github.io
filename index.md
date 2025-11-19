@@ -1,4 +1,5 @@
 # Krista Longnecker
+<img src = "https://github.com/redbluewater/redbluewater.github.io/blob/main/Longnecker_photos_2024.jpg" width="100%" height="100%">
 
 ## Education
 * Ph.D. Oregon State University, 2004, Oceanography
