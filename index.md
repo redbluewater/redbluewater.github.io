@@ -13,7 +13,8 @@
 * Postdoctoral Investigator. Woods Hole Oceanographic Institution, Marine Chemistry and Geochemistry (2006 – 2009)
 * Research Associate (Postdoc). Oregon State University, College of Oceanic and Atmospheric Sciences (2004 – 2006)
 * Graduate Research Assistant. Oregon State University (1999 – 2004)
-* Graduate Research Assistant. Rutgers University, NJ. (1998) 
+* Graduate Research Assistant. Rutgers University, NJ. (1998)
+* test
 * Technology Manager. Gulf of Maine Aquarium, now known as the Gulf of Maine Research Institute (1993 – 1997)
 * Clam Flat Project Coordinator. Friends of Casco Bay. (1994 – 1997)
 * Undergraduate Researcher. Marine Biological Laboratory (Summer 1991,1993)
