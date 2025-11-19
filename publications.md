@@ -55,6 +55,6 @@
 - Morris, R.M., K. Longnecker and S.J. Giovannoni (2006). Pirellula and OM43 are among the dominant lineages identified in an Oregon coast diatom bloom. Environmental Microbiology. 8: 1361-1370.
 - Sherr, E.B., B. F. Sherr, and K. Longnecker (2006). Distribution of bacterial abundance and cell-specific nucleic acid content in the Northeast Pacific Ocean. Deep-Sea Research I. 53: 713-725.
 - Longnecker, K., B. F. Sherr and E. B. Sherr (2005). Activity and phylogenetic diversity of bacterial cells with high and low nucleic acid content and electron transport system activity in an upwelling ecosystem. Applied and Environmental Microbiology. 71: 7737-7749.
-- Longnecker, K. and A.-L. Reysenbach (2001). Expansion of the geographic distribution of a novel lineage of \varepsilon-Proteobacteria to a hydrothermal vent site on the Southern East Pacific Rise. FEMS Microbiology Ecology. 35: 287-293.
+- Longnecker, K. and A.-L. Reysenbach (2001). Expansion of the geographic distribution of a novel lineage of $\varepsilon$-Proteobacteria to a hydrothermal vent site on the Southern East Pacific Rise. FEMS Microbiology Ecology. 35: 287-293.
 - Reysenbach, A.-L., K. Longnecker and J. Kirshtein (2000). Novel bacterial and archaeal lineages from an in situ growth chamber deployed at a Mid-Atlantic Ridge hydrothermal vent. Applied and Environmental Microbiology. 66: 3798-3797.
 - Van Winkle, D.H., K. Longnecker and N.W. Blackstone (2000). The effects of hermit crabs on hydractiniid hydroids. Marine Ecology. 21: 55-67.
