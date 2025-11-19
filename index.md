@@ -6,6 +6,7 @@ I think my description at [GitHub](http://github.com/redbluewater) is best: Biol
 ## Current situation
 * Editor-in-Chief *Limnology and Oceanography: Methods*, Association for the Sciences of Limnology and Oceanography (2024 – present)
 * Guest Investigator. Woods Hole Oceanographic Institution, Marine Chemistry and Geochemistry (October 2025 – present)
+* Scientist with the BIOS-SCOPE project, see [website](https://bios.asu.edu/scope) and [GitHub](https://github.com/BIOS-SCOPE) for the project's accomplishments
 
 ## Past experience
 * Research Specialist. Woods Hole Oceanographic Institution, Marine Chemistry and Geochemistry (2011 to October 2025)
