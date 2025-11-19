@@ -1,5 +1,5 @@
 # Krista Longnecker
-I think my description at [GitHub](github.com/redbluewater) is best: Biologist. Chemist. Data scientist. Journal editor. Curious person. All of the above.
+I think my description at [GitHub](http://github.com/redbluewater) is best: Biologist. Chemist. Data scientist. Journal editor. Curious person. All of the above.
 
 <img src = "http://redbluewater.github.io/Longnecker_photos_2024.jpg" width="100%" height="100%">
 
