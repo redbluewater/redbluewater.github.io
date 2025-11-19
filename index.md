@@ -18,4 +18,5 @@
 * Clam Flat Project Coordinator. Friends of Casco Bay. (1994 – 1997)
 * Undergraduate Researcher. Marine Biological Laboratory (Summer 1991,1993)
 
+[some text](publications.md)
 
