@@ -1,7 +1,7 @@
 # Krista Longnecker
 I think my description at [GitHub](github.com/redbluewater) is best: Biologist. Chemist. Data scientist. Journal editor. Curious person. All of the above.
 
-<img src = "https://github.com/redbluewater/redbluewater.github.io/blob/main/Longnecker_photos_2024.jpg" width="100%" height="100%">
+<img src = "Longnecker_photos_2024.jpg" width="100%" height="100%">
 
 ## Experience
 * Editor-in-Chief *Limnology and Oceanography: Methods*, Association for the Sciences of Limnology and Oceanography (2024 – present)
