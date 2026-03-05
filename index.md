@@ -3,7 +3,7 @@ I think my description at [GitHub](http://github.com/redbluewater) is best: Biol
 
 <img src = "http://redbluewater.github.io/Longnecker_photos_2024.jpg" width="100%" height="100%">
 
-## Current situation
+## Current positions
 * Editor-in-Chief *Limnology and Oceanography: Methods*, Association for the Sciences of Limnology and Oceanography (2024 – present)
 * Guest Investigator. Woods Hole Oceanographic Institution, Marine Chemistry and Geochemistry (October 2025 – present)
 * Scientist with the BIOS-SCOPE project, see [website](https://bios.asu.edu/scope) and [GitHub](https://github.com/BIOS-SCOPE) for the project's accomplishments
@@ -25,7 +25,7 @@ I think my description at [GitHub](http://github.com/redbluewater) is best: Biol
 - Parsons, R. J., S. Liu, **K. Longnecker**, K. Yongblah, C. Johnson, L. Bolaños, K. Opalk, M. C. Kido Soule, R. Garley, C. A. Carlson, B. Temperton and N. R. Bates (2023). Suboxic DOM is bioavailable to Surface Prokaryotes in a Simulated Overturn of an Oxygen Minimum Zone, Devil’s Hole, Bermuda. *Frontiers in Microbiology*. 14:1287477. DOI: 10.3389/fmicb.2023.1287477
 - **Longnecker, K.**, L. Oswald, M.C. Kido Soule, G.A. Cutter, E.B. Kujawinski (2020) Organic sulfur: a spatially variable and understudied component of marine organic matter. *Limnology & Oceanography Letters* 5:305-312
 - Liu, S., R. Parsons, K. Opalk, N. Baetge, S. Giovannoni, L. Bolanos, E.B. Kujawinski, **K. Longnecker**, Y. Lu, E. Halewood, C.A. Carlson (2020) Different carboxyl-rich alicyclic molecules (CRAM) proxy compounds select distinct bacterioplankton for oxidation of DOM in the mesopelagic Sargasso Sea. *Limnology and Oceanography* 65:1532-1553
-- **Longnecker, K.**, Sievert, S.M., Sylva, S.P., Seewald, J.S., and Kujawinski, E.B. (2018). Dissolved organic carbon compounds in deep-sea hydrothermal vent fluids from the East Pacific Rise at 9º50’N. Organic Geochemistry 125: 41-49.
+- **Longnecker, K.**, Sievert, S.M., Sylva, S.P., Seewald, J.S., and Kujawinski, E.B. (2018). Dissolved organic carbon compounds in deep-sea hydrothermal vent fluids from the East Pacific Rise at 9º50’N. *Organic Geochemistry* 125: 41-49.
 
 Full set of publications available [here](publications.md)
 
