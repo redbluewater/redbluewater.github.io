@@ -17,7 +17,7 @@ I think my description at [GitHub](http://github.com/redbluewater) is best: Biol
 * Graduate Research Assistant. Rutgers University, NJ. (1998)
 * Technology Manager. Gulf of Maine Aquarium, now known as the Gulf of Maine Research Institute (1993 – 1997)
 * Clam Flat Project Coordinator. Friends of Casco Bay. (1994 – 1997)
-* Undergraduate Researcher. Marine Biological Laboratory (Summer 1991,1993)
+* Undergraduate Researcher. Marine Biological Laboratory (Summer 1991, 1992 as NSF REU Fellow, 1993)
 
 ## Select publications
 - **Longnecker, K.**, Kido Soule, M. C., Kujawinski, E. B. (2024). A witches’ brew: Dissolved metabolites in seawater. *Biogeochemistry of Marine Dissolved Organic Matter*, third edition. D. A. Hansell and C. A. Carlson, Academic Press: 69-99.
